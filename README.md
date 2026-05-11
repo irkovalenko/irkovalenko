@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**irkovalenko/irkovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PowerBI data analyst with nearly 3 years of experience who is shifting towards developer role. Currently I'm learning PHP.
+Based in 🇳🇱.
+![Test](https://github-readme-stats.vercel.app/api?username=irkovalenko&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+# Contact:
+📬 iko905744@gmail.com
+💬 https://www.linkedin.com/in/irina--kovalenko/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Certificates
+
+
