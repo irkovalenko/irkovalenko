@@ -9,7 +9,12 @@ Based in 🇳🇱.
 
 # Certificates
 <div align="center">
-   <img src="images/php_certificate.png" width=200 alt="PHP Intermediate"/>
+   <a href="https://drive.google.com/file/d/11SqdFdQKIhZ9WxL9d7WmyvcJ7g31z8L7/view?usp=sharing">
+   <img 
+      src="images/php_certificate.png"
+      width="200"
+      alt="PHP Intermediate"
+   />
 </div>
 
 
