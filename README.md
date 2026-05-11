@@ -8,5 +8,6 @@ Based in 🇳🇱.
 💬 https://www.linkedin.com/in/irina--kovalenko/
 
 # Certificates
+[![PHP Intermediate](images/.png)](https://drive.google.com/file/d/11SqdFdQKIhZ9WxL9d7WmyvcJ7g31z8L7/view?usp=sharing)
 
 
