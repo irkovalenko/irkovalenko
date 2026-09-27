@@ -8,32 +8,22 @@ Based in 🇳🇱.
 💬 https://www.linkedin.com/in/irina--kovalenko/
 
 # Certificates
+
 <div align="center">
 
-   <a href="https://drive.google.com/file/d/11SqdFdQKIhZ9WxL9d7WmyvcJ7g31z8L7/view?usp=sharing">
-      <img 
-         src="images/php_certificate.png"
-         width="200"
-         alt="PHP Intermediate"
-      />
-   </a>
+<a href="https://drive.google.com/file/d/11SqdFdQKIhZ9WxL9d7WmyvcJ7g31z8L7/view?usp=sharing">
+  <img src="./images/php_certificate.png" width="200" alt="PHP Intermediate">
+</a>
 
-   <a href="https://drive.google.com/file/d/199hBzL2w0pgU_H6OztV4DBS3FPbc2YW1/view?usp=sharing">
-      <img 
-         src="images/oop_certificate.png"
-         width="200"
-         alt="OOP PHP"
-      />
-   </a>
+<a href="https://drive.google.com/file/d/199hBzL2w0pgU_H6OztV4DBS3FPbc2YW1/view?usp=sharing">
+  <img src="./images/oop_certificate.png" width="200" alt="OOP PHP">
+</a>
 
-    <a href="https://drive.google.com/drive/folders/1WAOkmpi8u8tkONetImbGnHpp8FYa1vp-">
-      <img 
-         src="images/mayerfeld.png"
-         width="200"
-         alt="Frontend Development"
-      />
-   </a>
+<a href="https://drive.google.com/file/d/1UIHiLcbOVY-gbnrxLn9aHXrlDScxDI5_/view?usp=sharing">
+  <img src="./images/mayerfeld.png" width="200" alt="Frontend Development">
+</a>
 
 </div>
+
 
 
